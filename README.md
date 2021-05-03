@@ -12,4 +12,7 @@ This allows for a two way approach that enables:
 Dashboard is at
 http://35.189.1.113:8000/geodash
 
+Model information is at
+https://www.explain.group/reimagining-resolution-at-single-cells
+
 For any interests, please contact us at ask@explain.group
