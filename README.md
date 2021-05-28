@@ -15,4 +15,8 @@ http://35.189.1.113:8000/geodash
 Model information is at
 https://www.explain.group/reimagining-resolution-at-single-cells
 
+A submission to the competition held by NanoString for the Hackathon using Spatial Transcriptomic data - winning Third Place and Best Integration of IF Images in Visualization:
+https://devpost.com/software/reimagining-resolution-at-single-cells
+
 For any interests, please contact us at ask@explain.group
+
