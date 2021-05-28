@@ -15,11 +15,10 @@ http://35.189.1.113:8000/geodash
 Model information is at
 https://www.explain.group/reimagining-resolution-at-single-cells
 
-A submission to the competition held by NanoString for the Hackathon using Spatial Transcriptomic data - winning Third Place and Best Integration of IF Images in Visualization:
+A submission to the competition held by NanoString for the Hackathon using Spatial Transcriptomic data - winning Third Place and Best Integration of Immunofluorescence Images in Visualization:
 https://devpost.com/software/reimagining-resolution-at-single-cells
 
 Data from the NanoHack (via the NanoString GeoMX platform) is also provided.
 Also, unzip the single cell reference data provided from Wu et al (2018): https://data.humancellatlas.org/explore/projects/027c51c6-0719-469f-a7f5-640fe57cbece
 
-For any interests, please contact us at ask@explain.group
-
+This project is ongoing and will be made more user-friendly. For any interests, please contact us at ask@explain.group
