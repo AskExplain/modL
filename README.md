@@ -9,6 +9,9 @@ This allows for a two way approach that enables:
 
 2 - Gene expression to Spatial: Transformation of gene expression only vectors to spatial image tiles
 
+Data from the NanoHack (via NanoString GeoMX platform) is also provided. 
+Also, unzip the single cell reference data provided from Wu et al (2018): https://data.humancellatlas.org/explore/projects/027c51c6-0719-469f-a7f5-640fe57cbece
+
 Dashboard is at
 http://35.189.1.113:8000/geodash
 
