@@ -10,7 +10,7 @@ This allows for a two way approach that enables:
 2 - Gene expression to Spatial: Transformation of gene expression only vectors to spatial image tiles
 
 Dashboard is at
-http://35.189.1.113:8000/geodash
+https://modl.explain.group/geodash
 
 Model information is at
 https://www.explain.group/reimagining-resolution-at-single-cells
